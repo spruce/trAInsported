@@ -1,4 +1,3 @@
-
 -- Language file for trAInsported. Make a copy of this to translate into your own language.
 -- Please don't change the order of the entries in this file.
 FONT_BUTTON = love.graphics.newFont( "UbuntuFont/Ubuntu-B.ttf", 17 )
@@ -8,9 +7,9 @@ FONT_BUTTON_SMALL = love.graphics.newFont( "UbuntuFont/Ubuntu-B.ttf", 16 )
 -- Menu:
 -------------------------------------------------
 LNG.menu_live = [[Live]]
-LNG.menu_live_tooltip = [[Beobachte die hochgeladenen KIs in online spielen!]]
+LNG.menu_live_tooltip = [[Beobachte die hochgeladenen KIs in Online-Spielen!]]
 LNG.menu_tutorial = [[Anleitung]]
-LNG.menu_tutorial_tooltip = [[Lerne das Spiel und die Programmiersprache]]
+LNG.menu_tutorial_tooltip = [[Lerne das Spiel und die Programmiersprache kennen.]]
 LNG.menu_challenge = [[Herausforderung]]
 LNG.menu_challenge_tooltip = [[Karten mit speziellen Zielen]]
 LNG.menu_compete = [[Wettstreit]]
@@ -18,8 +17,8 @@ LNG.menu_compete_tooltip = [[Wähle KIs und eine Karte aus und lasse sie gegenei
 LNG.menu_random = [[Zufällig]]
 LNG.menu_random_tooltip = [[Zufällige Karte mit einer zufälligen Auswahl von KIs aus dem 'AI' Ordner.]]
 LNG.menu_settings = [[Optionen]]
-LNG.menu_settings_tooltip = [[Sprachauswahl, Bildschirmgröße etc]]
-LNG.menu_exit = [[Schließen]]
+LNG.menu_settings_tooltip = [[Sprachauswahl, Bildschirmgröße, etc]]
+LNG.menu_exit = [[Beenden]]
 
 LNG.menu_return = [[Zurück]]
 LNG.menu_return_to_main_menu_tooltip = [[Zurück ins Hauptmenü]]
@@ -87,12 +86,12 @@ LNG.transported1 = [[]]		-- before X
 LNG.transported2 = [[ von ]]		-- between X and Y
 LNG.transported3 = [[ Passagieren]]		-- after Y
 
-LNG.round_ends = [[Runde endet in]]		-- after Y
-LNG.seconds = [[sec]]		-- after Y
-LNG.minutes = [[min]]		-- after Y
-LNG.hours = [[h]]		-- after Y
-LNG.days = [[Tage]]		-- after Y
-LNG.end_of_match = [[Runde ist vorbei!]]		-- after Y
+LNG.round_ends = [[Runde endet in]]
+LNG.seconds = [[sec]]
+LNG.minutes = [[min]]
+LNG.hours = [[h]]
+LNG.days = [[Tage]]
+LNG.end_of_match = [[Die Runde ist vorbei!]]
 
 -------------------------------------------------
 -- MESSAGE BOX:
